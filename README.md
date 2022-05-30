@@ -49,7 +49,7 @@ A special thanks to Microverse.
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](/LICENCE) licensed.
 
 ## Contact
 Created by [@VuDej](https://github.com/VuDej)
