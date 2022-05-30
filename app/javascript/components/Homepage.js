@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 class Homepage extends React.Component {
   render () {
@@ -6,7 +7,7 @@ class Homepage extends React.Component {
       <React.Fragment>
         <div className='container'>
           <h1>Rails-React testing</h1>
-          <a onClick={() => {window.location.href="/greetings"}} className="testing">redirect to greetings</a>
+        <Link to='/greetings' className="button3">Go to Greetings page</Link>
         </div>
       </React.Fragment>
     );
