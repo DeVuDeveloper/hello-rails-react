@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-Rails-React
+# Hello Rails React
 
  ## General info
   Implemented a connection between a Ruby on Rails back-end and React front-end in one application.
